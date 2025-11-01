@@ -5,7 +5,6 @@
 - raylib-rs:
   - glfw
   - cmake
-  - curl
 
 ## Quick start
 ```bash
